@@ -1,0 +1,290 @@
+{
+  "url": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+  "total_elements_found": 8,
+  "elements_tested": 8,
+  "active_clicks": 8,
+  "dead_clicks": 0,
+  "errors": 0,
+  "results": [
+    {
+      "element_info": {
+        "tag_name": "div",
+        "text": "",
+        "class_names": "shopify-section",
+        "id": "shopify-section-template--23599114617112__btn_animation_section_jXAXxt",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"shopify-section-template--23599114617112__btn_animation_section_jXAXxt\"]",
+        "css_selector": "div#shopify-section-template--23599114617112__btn_animation_section_jXAXxt",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 7632908032373821434
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:35.689548",
+      "dom_hash_before": "4fd32fd8692b2857f0712b844afe7ee0",
+      "dom_hash_after": "5cdfef38d3d7206cd3e61b0f6b156c2a"
+    },
+    {
+      "element_info": {
+        "tag_name": "a",
+        "text": "SKIP TO CONTENT",
+        "class_names": "skip-to-content-link button visually-hidden",
+        "id": "",
+        "status_code": [
+          200
+        ],
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "/html/body/a[1]",
+        "css_selector": "html > body > a",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": -5265703967110195455,
+        "detection_method": "pointer_cursor"
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:39.877542",
+      "dom_hash_before": "5cdfef38d3d7206cd3e61b0f6b156c2a",
+      "dom_hash_after": "e44bac33ee55c7d2f9b0528355b658b1"
+    },
+    {
+      "element_info": {
+        "tag_name": "a",
+        "text": "",
+        "class_names": "logo",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"shopify-section-template--23599114617112__9ffe7185-e26d-40c8-be0a-42b72bf477e3\"]/div[1]/div[2]/a[1]",
+        "css_selector": "div#shopify-section-template--23599114617112__9ffe7185-e26d-40c8-be0a-42b72bf477e3 > div > div:nth-of-type(2) > a",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": -7999845285756367680
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:35.489888",
+      "dom_hash_before": "d1ef157f70aac3d9d883ea9b47449a72",
+      "dom_hash_after": "fcbb435faf187a8146f650183d51c1c9"
+    },
+    {
+      "element_info": {
+        "tag_name": "a",
+        "text": "",
+        "class_names": "logo2",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"shopify-section-template--23599114617112__9ffe7185-e26d-40c8-be0a-42b72bf477e3\"]/div[1]/div[2]/a[2]",
+        "css_selector": "div#shopify-section-template--23599114617112__9ffe7185-e26d-40c8-be0a-42b72bf477e3 > div > div:nth-of-type(2) > a:nth-of-type(2)",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": -8924992158882190571
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:39.717645",
+      "dom_hash_before": "fcbb435faf187a8146f650183d51c1c9",
+      "dom_hash_after": "a39a094e5aca9de5ad9d5bd7eaba6622"
+    },
+    {
+      "element_info": {
+        "tag_name": "div",
+        "text": "",
+        "class_names": "banner-image",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"shopify-section-template--23599114617112__9ffe7185-e26d-40c8-be0a-42b72bf477e3\"]/div[1]/div[1]",
+        "css_selector": "div#shopify-section-template--23599114617112__9ffe7185-e26d-40c8-be0a-42b72bf477e3 > div > div",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 4067775919225692980
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:43.894846",
+      "dom_hash_before": "a39a094e5aca9de5ad9d5bd7eaba6622",
+      "dom_hash_after": "fd4ec47eff2cdecb1d28a23030622785"
+    },
+    {
+      "element_info": {
+        "tag_name": "a",
+        "text": "SHOP ALL",
+        "class_names": "shop-all",
+        "id": "",
+        "status_code": [
+          200
+        ],
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"heroSection\"]/a[1]",
+        "css_selector": "div#heroSection > a",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": -4142833889430186243
+      },
+      "click_status": "active_navigation",
+      "error_message": "",
+      "page_changed": true,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/collections/all-products",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:27.842399",
+      "dom_hash_before": "b24763ff147b7313e3955bdcb75b9930",
+      "dom_hash_after": "1a3234bbf6755b62667d1fddc7141af1"
+    },
+    {
+      "element_info": {
+        "tag_name": "a",
+        "text": "DISCOVER MORE",
+        "class_names": "right-arrow",
+        "id": "",
+        "status_code": [
+          200
+        ],
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"shopify-section-template--23599114617112__featured_collection_xQxGpa\"]/div[1]/div[1]/div[1]/a[1]",
+        "css_selector": "section#shopify-section-template--23599114617112__featured_collection_xQxGpa > div > div > div > a",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 8602387540741935241
+      },
+      "click_status": "active_navigation",
+      "error_message": "",
+      "page_changed": true,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/collections/new-in",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:42.413385",
+      "dom_hash_before": "0298e42ee2b7984509b9d65dec2790e4",
+      "dom_hash_after": "b9f766f75628bfb776937ed24684ed79"
+    },
+    {
+      "element_info": {
+        "tag_name": "a",
+        "text": "DISCOVER MORE",
+        "class_names": "discover",
+        "id": "",
+        "status_code": [
+          200
+        ],
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"shopify-section-template--23599114617112__featured_collection_xQxGpa\"]/div[1]/div[1]/a[1]",
+        "css_selector": "section#shopify-section-template--23599114617112__featured_collection_xQxGpa > div > div > a",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": -2141800676012364032
+      },
+      "click_status": "active_navigation",
+      "error_message": "",
+      "page_changed": true,
+      "url_before": "https://bluorng.com/?srsltid=AfmBOopyt08cyek5nzO4e2zcWMkR-JOC7XQhSWkm7WLuZullTv68rxzf",
+      "url_after": "https://bluorng.com/collections/new-in",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:04:59.997732",
+      "dom_hash_before": "5c487166db6fa89752d5843b8a5a223e",
+      "dom_hash_after": "5e044109002105f15aaad3efc66e356c"
+    }
+  ],
+  "concurrent_info": {
+    "max_workers": 3,
+    "batches_created": 3,
+    "batch_sizes": [
+      3,
+      3,
+      2
+    ],
+    "total_time": 49.57
+  },
+  "summary": {
+    "total_tested": 8,
+    "active_percentage": 100.0,
+    "dead_percentage": 0.0,
+    "error_percentage": 0.0,
+    "most_common_classes": [
+      [
+        "shopify-section",
+        1
+      ],
+      [
+        "skip-to-content-link",
+        1
+      ],
+      [
+        "button",
+        1
+      ],
+      [
+        "visually-hidden",
+        1
+      ],
+      [
+        "logo",
+        1
+      ],
+      [
+        "logo2",
+        1
+      ],
+      [
+        "banner-image",
+        1
+      ],
+      [
+        "shop-all",
+        1
+      ],
+      [
+        "right-arrow",
+        1
+      ],
+      [
+        "discover",
+        1
+      ]
+    ],
+    "click_status_breakdown": {
+      "active_dom_change": 5,
+      "active_navigation": 3
+    }
+  },
+  "timestamp": "2025-07-24T02:04:25.584004"
+}

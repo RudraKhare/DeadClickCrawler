@@ -1,0 +1,148 @@
+{
+  "url": "https://factoryadmin.nint.strawmine.com/page-fa-landing",
+  "total_elements_found": 3,
+  "elements_tested": 3,
+  "active_clicks": 3,
+  "dead_clicks": 0,
+  "errors": 0,
+  "results": [
+    {
+      "element_info": {
+        "tag_name": "button",
+        "text": "Proceed",
+        "class_names": "Button__ButtonStyled-sc-jtk5k5-0 Button__ButtonElementStyledComponent-sc-jtk5k5-1 elPsOq knANqO",
+        "id": "z_auto-email-validation-submit",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"z_auto-email-validation-submit\"]",
+        "css_selector": "button#z_auto-email-validation-submit",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 1729454351498124869
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://auth.strawmine.com/login?up_s=ZILINGO_FACTORY&up_cd=v1_eyJjbGllbnREZXRhaWxzIjp7fSwibG9naW5Tb3VyY2UiOiJCQV9BUFAiLCJzdGFnZUVudiI6Im5pbnQifQ%3D%3D&redirectTo=%2Fpage-fa-landing",
+      "url_after": "https://auth.strawmine.com/login?up_s=ZILINGO_FACTORY&up_cd=v1_eyJjbGllbnREZXRhaWxzIjp7fSwibG9naW5Tb3VyY2UiOiJCQV9BUFAiLCJzdGFnZUVudiI6Im5pbnQifQ%3D%3D&redirectTo=%2Fpage-fa-landing",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:02:30.518844",
+      "dom_hash_before": "85aab2ca640197a8ea12c4267a363d39",
+      "dom_hash_after": "4d9ed53e7aea276f893f0fd44a46912a"
+    },
+    {
+      "element_info": {
+        "tag_name": "label",
+        "text": "Remember username",
+        "class_names": "field__label m-anime-form__input",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"l-d-login-page\"]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[1]/div[1]/div[1]/label[1]",
+        "css_selector": "div#l-d-login-page > div > div > div > div > div > div:nth-of-type(3) > div > form > div > div > div > label",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 332454822391882518,
+        "detection_method": "pointer_cursor"
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://auth.strawmine.com/login?up_s=ZILINGO_FACTORY&up_cd=v1_eyJjbGllbnREZXRhaWxzIjp7fSwibG9naW5Tb3VyY2UiOiJCQV9BUFAiLCJzdGFnZUVudiI6Im5pbnQifQ%3D%3D&redirectTo=%2Fpage-fa-landing",
+      "url_after": "https://auth.strawmine.com/login?up_s=ZILINGO_FACTORY&up_cd=v1_eyJjbGllbnREZXRhaWxzIjp7fSwibG9naW5Tb3VyY2UiOiJCQV9BUFAiLCJzdGFnZUVudiI6Im5pbnQifQ%3D%3D&redirectTo=%2Fpage-fa-landing",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:02:30.654603",
+      "dom_hash_before": "a2cc07f86ebe3392e7fdbc85f3b4773f",
+      "dom_hash_after": "17682b6054b8af2777409d48d39d4504"
+    },
+    {
+      "element_info": {
+        "tag_name": "div",
+        "text": "",
+        "class_names": "field__checkbox loginSprite loginSprite--unchecked",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"l-d-login-page\"]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[1]/div[1]/div[1]/label[1]/div[1]",
+        "css_selector": "div#l-d-login-page > div > div > div > div > div > div:nth-of-type(3) > div > form > div > div > div > label > div",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 5332832555576931670,
+        "detection_method": "pointer_cursor"
+      },
+      "click_status": "active_dom_change",
+      "error_message": "",
+      "page_changed": false,
+      "url_before": "https://auth.strawmine.com/login?up_s=ZILINGO_FACTORY&up_cd=v1_eyJjbGllbnREZXRhaWxzIjp7fSwibG9naW5Tb3VyY2UiOiJCQV9BUFAiLCJzdGFnZUVudiI6Im5pbnQifQ%3D%3D&redirectTo=%2Fpage-fa-landing",
+      "url_after": "https://auth.strawmine.com/login?up_s=ZILINGO_FACTORY&up_cd=v1_eyJjbGllbnREZXRhaWxzIjp7fSwibG9naW5Tb3VyY2UiOiJCQV9BUFAiLCJzdGFnZUVudiI6Im5pbnQifQ%3D%3D&redirectTo=%2Fpage-fa-landing",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-24T02:02:31.739603",
+      "dom_hash_before": "f19ce34580672915638d8c3724a9894e",
+      "dom_hash_after": "235b9c379470bf542a01ad59b51cf9e6"
+    }
+  ],
+  "concurrent_info": {
+    "max_workers": 3,
+    "batches_created": 3,
+    "batch_sizes": [
+      1,
+      1,
+      1
+    ],
+    "total_time": 9.73
+  },
+  "summary": {
+    "total_tested": 3,
+    "active_percentage": 100.0,
+    "dead_percentage": 0.0,
+    "error_percentage": 0.0,
+    "most_common_classes": [
+      [
+        "Button__ButtonStyled-sc-jtk5k5-0",
+        1
+      ],
+      [
+        "Button__ButtonElementStyledComponent-sc-jtk5k5-1",
+        1
+      ],
+      [
+        "elPsOq",
+        1
+      ],
+      [
+        "knANqO",
+        1
+      ],
+      [
+        "field__label",
+        1
+      ],
+      [
+        "m-anime-form__input",
+        1
+      ],
+      [
+        "field__checkbox",
+        1
+      ],
+      [
+        "loginSprite",
+        1
+      ],
+      [
+        "loginSprite--unchecked",
+        1
+      ]
+    ],
+    "click_status_breakdown": {
+      "active_dom_change": 3
+    }
+  },
+  "timestamp": "2025-07-24T02:02:26.107566"
+}

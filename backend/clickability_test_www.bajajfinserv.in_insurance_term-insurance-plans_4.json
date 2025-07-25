@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bajajfinserv.in/insurance/term-insurance-plans",
+  "total_elements_found": 0,
+  "elements_tested": 0,
+  "active_clicks": 0,
+  "dead_clicks": 0,
+  "errors": 0,
+  "results": [],
+  "concurrent_info": {
+    "max_workers": 3,
+    "batches_created": 0,
+    "batch_sizes": [],
+    "total_time": 0.0
+  },
+  "summary": {
+    "total_tested": 0,
+    "active_percentage": 0,
+    "dead_percentage": 0,
+    "error_percentage": 0,
+    "most_common_classes": [],
+    "click_status_breakdown": {}
+  },
+  "timestamp": "2025-07-23T03:49:40.014352"
+}

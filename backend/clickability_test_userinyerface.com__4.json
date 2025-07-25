@@ -1,0 +1,155 @@
+{
+  "url": "https://userinyerface.com/",
+  "total_elements_found": 4,
+  "elements_tested": 4,
+  "active_clicks": 1,
+  "dead_clicks": 3,
+  "errors": 0,
+  "results": [
+    {
+      "element_info": {
+        "tag_name": "div",
+        "text": "",
+        "class_names": "bagaar-link",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"app\"]/div[2]",
+        "css_selector": "div#app > div:nth-of-type(2)",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": -3475140105371845584
+      },
+      "click_status": "dead_click",
+      "error_message": "Dead click: suspicious href or onclick and no visible effect",
+      "page_changed": false,
+      "url_before": "https://userinyerface.com/",
+      "url_after": "https://userinyerface.com/",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-23T04:10:49.057631",
+      "dom_hash_before": "9b66f335ee79878646dd486c94f7e57b",
+      "dom_hash_after": "9b66f335ee79878646dd486c94f7e57b"
+    },
+    {
+      "element_info": {
+        "tag_name": "img",
+        "text": "",
+        "class_names": "bagaar-link__image",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "verhaert.digital",
+        "xpath": "//*[@id=\"app\"]/div[2]/img[1]",
+        "css_selector": "div#app > div:nth-of-type(2) > img",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": -667546068504373175
+      },
+      "click_status": "dead_click",
+      "error_message": "Dead click: suspicious href or onclick and no visible effect",
+      "page_changed": false,
+      "url_before": "https://userinyerface.com/",
+      "url_after": "https://userinyerface.com/",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-23T04:10:49.126630",
+      "dom_hash_before": "9b66f335ee79878646dd486c94f7e57b",
+      "dom_hash_after": "9b66f335ee79878646dd486c94f7e57b"
+    },
+    {
+      "element_info": {
+        "tag_name": "a",
+        "text": "HERE",
+        "class_names": "start__link",
+        "id": "",
+        "status_code": [
+          200
+        ],
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"app\"]/div[1]/div[1]/div[4]/p[1]/a[1]",
+        "css_selector": "div#app > div > div > div:nth-of-type(4) > p > a",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 3538317980326249738
+      },
+      "click_status": "active_navigation",
+      "error_message": "",
+      "page_changed": true,
+      "url_before": "https://userinyerface.com/",
+      "url_after": "https://userinyerface.com/game.html",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-23T04:10:48.665532",
+      "dom_hash_before": "9b66f335ee79878646dd486c94f7e57b",
+      "dom_hash_after": "9aaa8ecb63122a2fbe55db4097249bdc"
+    },
+    {
+      "element_info": {
+        "tag_name": "button",
+        "text": "NO",
+        "class_names": "start__button",
+        "id": "",
+        "status_code": null,
+        "role": "",
+        "aria_label": "",
+        "alt": "",
+        "xpath": "//*[@id=\"app\"]/div[1]/div[1]/div[3]/button[1]",
+        "css_selector": "div#app > div > div > div:nth-of-type(3) > button",
+        "is_displayed": true,
+        "is_enabled": true,
+        "unique_id": 8239932070689117816
+      },
+      "click_status": "dead_click",
+      "error_message": "Dead click: suspicious href or onclick and no visible effect",
+      "page_changed": false,
+      "url_before": "https://userinyerface.com/",
+      "url_after": "https://userinyerface.com/",
+      "new_elements_appeared": false,
+      "timestamp": "2025-07-23T04:10:55.198385",
+      "dom_hash_before": "9b66f335ee79878646dd486c94f7e57b",
+      "dom_hash_after": "9b66f335ee79878646dd486c94f7e57b"
+    }
+  ],
+  "concurrent_info": {
+    "max_workers": 3,
+    "batches_created": 3,
+    "batch_sizes": [
+      2,
+      1,
+      1
+    ],
+    "total_time": 18.93
+  },
+  "summary": {
+    "total_tested": 4,
+    "active_percentage": 25.0,
+    "dead_percentage": 75.0,
+    "error_percentage": 0.0,
+    "most_common_classes": [
+      [
+        "bagaar-link",
+        1
+      ],
+      [
+        "bagaar-link__image",
+        1
+      ],
+      [
+        "start__link",
+        1
+      ],
+      [
+        "start__button",
+        1
+      ]
+    ],
+    "click_status_breakdown": {
+      "dead_click": 3,
+      "active_navigation": 1
+    }
+  },
+  "timestamp": "2025-07-23T04:10:46.464475"
+}
