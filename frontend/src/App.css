@@ -1,0 +1,162 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f8fafc 0%, #e3e9f3 100%);
+  font-family: 'Inter', 'SF Pro Display', 'Roboto', Arial, sans-serif;
+  color: #222;
+  margin: 0;
+}
+
+.app-header {
+  width: 100%;
+  padding: 32px 0 16px 0;
+  background: rgba(255,255,255,0.7);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.04);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.app-title {
+  font-size: 2.8rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+  color: #111;
+  margin-bottom: 4px;
+}
+.app-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.glass-card {
+  background: rgba(255,255,255,0.65);
+  box-shadow: 0 8px 32px 0 rgba(31,38,135,0.08);
+  border-radius: 18px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.18);
+  transition: box-shadow 0.3s, transform 0.2s;
+}
+.glass-card:hover {
+  box-shadow: 0 12px 40px 0 rgba(31,38,135,0.13);
+  transform: translateY(-2px) scale(1.01);
+}
+
+.stats-label {
+  color: #888;
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+.stats-value {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
+.stats-percent {
+  color: #4f8cff;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.MuiTableCell-root code {
+  background: #f0f4fa;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'Inter', monospace;
+}
+
+.MuiTableRow-root {
+  transition: background 0.2s;
+}
+.MuiTableRow-root:hover {
+  background: #f5faff;
+}
+
+.MuiContainer-root {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+@media (max-width: 900px) {
+  .MuiGridLegacy-container {
+    flex-direction: column !important;
+  }
+  .MuiGridLegacy-item {
+    width: 100% !important;
+    margin-bottom: 16px;
+  }
+}
+
+.app-footer {
+  width: 100%;
+  padding: 24px 0 16px 0;
+  background: rgba(255,255,255,0.7);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 -2px 16px 0 rgba(0,0,0,0.03);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-top: 1px solid #e5e7eb;
+  font-size: 1rem;
+  color: #888;
+  margin-top: 48px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: #e3e9f3;
+}
+::-webkit-scrollbar-thumb {
+  background: #cfd8e3;
+  border-radius: 8px;
+}
+
+.glass-card .MuiCardContent-root {
+  min-height: 127px;
+}
